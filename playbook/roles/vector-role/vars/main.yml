@@ -1,0 +1,12 @@
+---
+vector_documentation_link: "https://docs.vector.dev/"
+vector_user: "vector"
+vector_group: "vector"
+vector_os_arh: "x86_64"
+vector_data_dir: "/var/lib/vector"
+vector_bin_path: "/opt/vector/vector-{{ vector_os_arh }}-unknown-linux-gnu/bin/vector"
+#params_exec_start_pre: ""
+#params_exec_start: ""
+#vector_env_path: "/etc/vector/vector.env"
+#vector_log_output_stdout: "syslog"
+#vector_log_output_stderr: "syslog"
